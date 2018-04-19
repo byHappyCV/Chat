@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatWhitAuth", "ChatWhitAuth.csproj", "{0BA2440A-5454-44D3-AC74-F62B0E00A340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "..\testing\testing.csproj", "{142CA4C7-5C0F-4543-BFB6-A7CDB635512F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA2440A-5454-44D3-AC74-F62B0E00A340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA2440A-5454-44D3-AC74-F62B0E00A340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA2440A-5454-44D3-AC74-F62B0E00A340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA2440A-5454-44D3-AC74-F62B0E00A340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142CA4C7-5C0F-4543-BFB6-A7CDB635512F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142CA4C7-5C0F-4543-BFB6-A7CDB635512F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142CA4C7-5C0F-4543-BFB6-A7CDB635512F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142CA4C7-5C0F-4543-BFB6-A7CDB635512F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D62AEE-B62C-4829-B340-9C7CB16F9AA2}
+	EndGlobalSection
+EndGlobal

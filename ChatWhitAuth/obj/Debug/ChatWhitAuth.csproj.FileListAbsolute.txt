@@ -1,0 +1,459 @@
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ApplicationInsights.config
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.dll.config
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.pdb
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.exe
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.exe.config
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.rsp
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.exe
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.exe.config
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.rsp
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.AppContext.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Console.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.Process.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.Compression.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.Pipes.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Reflection.Metadata.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.AccessControl.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Claims.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Threading.Thread.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.ValueTuple.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XPath.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.exe
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.exe.config
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.rsp
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\VBCSCompiler.exe
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\VBCSCompiler.exe.config
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Antlr3.Runtime.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.SqlServer.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Agent.Intercept.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.DependencyCollector.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Web.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.WindowsServer.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.ApplicationInsights.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Google.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Web.Infrastructure.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Newtonsoft.Json.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Owin.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Helpers.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Mvc.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Optimization.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Razor.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Deployment.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Razor.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\WebGrease.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Helpers.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Mvc.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Optimization.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.Razor.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Deployment.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Razor.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Antlr3.Runtime.pdb
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Newtonsoft.Json.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.SqlServer.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Google.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.ApplicationInsights.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.DependencyCollector.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.WindowsServer.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Web.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Helpers.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Mvc.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Optimization.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Razor.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\EntityFramework.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.CoreCompileInputs.cache
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.CopyComplete
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.pdb
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.Migrations.initial.resources
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.GenerateResource.cache
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.WebHost.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Mvc.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.WebHost.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Mvc.xml
+D:\rep\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Collections.Immutable.dll
+D:\rep\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csprojResolveAssemblyReference.cache
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.Migrations.initial.resources
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.GenerateResource.cache
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.CoreCompileInputs.cache
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.pdb
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ApplicationInsights.config
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.dll.config
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.pdb
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.exe
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.exe.config
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.rsp
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.exe
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.exe.config
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.rsp
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.AppContext.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Collections.Immutable.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Console.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.Process.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.Compression.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.Pipes.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Reflection.Metadata.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.AccessControl.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Claims.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Threading.Thread.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.ValueTuple.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XPath.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.exe
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.exe.config
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.rsp
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\VBCSCompiler.exe
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\roslyn\VBCSCompiler.exe.config
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Antlr3.Runtime.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.SqlServer.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Agent.Intercept.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.DependencyCollector.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Web.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.WindowsServer.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.ApplicationInsights.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Google.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Web.Infrastructure.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Newtonsoft.Json.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.WebHost.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Mvc.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Owin.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Helpers.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Mvc.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Optimization.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Razor.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Deployment.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Razor.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\WebGrease.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.WebHost.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Mvc.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Helpers.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Mvc.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Optimization.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.Razor.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Deployment.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Razor.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Antlr3.Runtime.pdb
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Newtonsoft.Json.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.SqlServer.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Google.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.ApplicationInsights.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.DependencyCollector.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.WindowsServer.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Web.xml
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Helpers.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Mvc.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Optimization.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Razor.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\EntityFramework.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.CopyComplete
+D:\prog\Новая папка\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csprojResolveAssemblyReference.cache
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ApplicationInsights.config
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.dll.config
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ChatWhitAuth.pdb
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.exe
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.exe.config
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\csc.rsp
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.exe
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.exe.config
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\csi.rsp
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.AppContext.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Console.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.IO.Pipes.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Claims.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Threading.Thread.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.exe
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.exe.config
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\vbc.rsp
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Antlr3.Runtime.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Web.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.ApplicationInsights.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Newtonsoft.Json.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Mvc.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Owin.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Helpers.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Mvc.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Optimization.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Razor.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\WebGrease.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Ninject.Web.Mvc.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Helpers.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Mvc.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Optimization.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.Razor.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Antlr3.Runtime.pdb
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Newtonsoft.Json.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.ApplicationInsights.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\Microsoft.AI.Web.xml
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.Razor.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\EntityFramework.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csprojResolveAssemblyReference.cache
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.Migrations.initial.resources
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.GenerateResource.cache
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.CoreCompileInputs.cache
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.csproj.CopyComplete
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.dll
+C:\Users\prychtc\Source\Repos\SignalRChat3\SignalRChatTest\ChatWhitAuth\obj\Debug\ChatWhitAuth.pdb

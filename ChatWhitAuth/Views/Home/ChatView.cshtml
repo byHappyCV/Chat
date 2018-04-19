@@ -1,0 +1,268 @@
+﻿
+@{
+    ViewBag.Title = "ChatView";
+}
+
+
+<div class="row">
+    <div class="col-md-12 panel panel-default">
+        <div class="panel-heading">
+            <h3>ChatView</h3>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="users-container col-md-4">
+                    <div class="search-container">
+                        <div class="col-md-8">
+                            <textarea name="search" class="form-control search-field " id="searchUser" rows="1"></textarea>
+                        </div>
+                        <div class="col-md-4">
+                            <button class="btn btn-success" id="btnSearch">Search</button>
+                        </div>
+                        <div class="col-md-8">
+                            <p id="searchResult"></p>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="users-list" id="usersList">
+                    </div>
+                    <br />
+                    <div class="requests-field" id="requests">
+
+                    </div>
+                </div>
+                <div class="col-md-8 chat-container" id="chatBody" style="display: none">
+                    <h4 class="chat-title" id="chattitle">Chat with:</h4> <hr />
+                    <ul class="chat-messages-list" id="messages"></ul>
+                    <div class="row">
+                        <div class="chat-form">
+                            <div class="col-md-10 ">
+                                <textarea class="form-control " id="txt" cols="3"></textarea>
+                            </div>
+                            <div class="col-md-2">
+                                <button id="send" data-toid="" class="btn btn-lg btn-primary">Send</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+
+
+</div>
+@section scripts
+{
+    <script src="~/Scripts/jquery.signalR-2.2.3.js"></script>
+    <script src="~/signalr/hubs"></script>
+
+    <script>
+        var hub = $.connection.chatHub;
+        $(document).ready(function() {
+
+            $("#chatBody #send").click(function (e) {
+                var $this = $(this),
+                    toId = $this.data('toid'),
+                    message = $('#chatBody #txt');
+
+
+                hub.server.sendPrivate(message.val(), toId);
+                message.val('');
+            });
+            hub.client.usersOnline = function () {
+                $(document).find(".users-item").each(function (i, el) {
+                    var status = $(el).data('status');
+                    console.log(status);
+                    if (status === true) {
+                        console.log(true);
+                        $(el).css('color','green');
+                    }
+                });
+            };
+            hub.client.getMessage = function (msg, name, fromId, toid) {
+                var chatActive = $(document).find(".users-item.active");
+                var chatId = chatActive.data('userid');
+                var uId = $('#send').data('toid');
+                
+                if (chatId === uId) {
+                    console.log(true);
+                    if (fromId === toid) {
+                        $('#messages').append("<li>" + name + ': ' + msg + "</li");
+                        return true;
+                    }
+                    if (chatId === fromId) {
+                        $('#messages').append("<li>" + name + ': ' + msg + "</li");
+                        return true;
+                    }
+                }
+                if (chatId !== fromId) {
+                    $(document).find(".users-item").each(function (i, el) {
+                        chatId = $(el).data('userid');
+                        if (chatId === fromId) {
+                            $(el).addClass('new-message');
+                        }
+                    });
+                }
+                
+
+            };
+            hub.client.noResults = function(msg) {
+                $('#searchResult').text(msg);
+                $('#searchUser').text('');
+            };
+            hub.client.sendRequest = function(fromId, toId, reqId, name) {
+                $('#requests').append(`<div class="friendRequest">
+                                                <h5>Friend Request from: ${name}</h5>
+                                                    <button data-answer=1 data-id='${reqId}' data-fromid='${fromId
+                    }' data-toid='${toId
+                    }' class="btn btn-success friendBtns">accept</button>
+                                                    <button data-answer=0 data-id='${reqId}' data-fromid='${fromId
+                    }' data-toid='${toId
+                    }' class="btn btn-danger friendBtns">decline</button>
+                                                    </div>`);
+            };
+            $(document).on('focus',
+                ".search-field",
+                function() {
+                    $('#searchResult').text('');
+                }
+            );
+            $(document).on('click',
+                ".friendBtns",
+                function() {
+                    var $this = $(this),
+                        id = $this.data('id'),
+                        fromId = $this.data('fromid'),
+                        toId = $this.data('toid'),
+                        answer = $this.data('answer');
+
+                    hub.server.answer(id, fromId, toId, answer);
+                    $this.parent('.friendRequest').remove();
+                });
+            hub.client.showRequests = function(list) {
+                var requests = "";
+                $.each(list,
+                    function(i, el) {
+                        requests += `<div class="friendRequest">
+                                                <h5>Friend Request from: ${el.FromName}</h5>
+                                                    <button data-answer=1 data-id='${el.Id}' data-fromid='${el.FromId
+                            }' data-toid='${el.ToId
+                            }' class="btn btn-success friendBtns">accept</button>
+                                                    <button data-answer=0 data-id='${el.Id}' data-fromid='${el.FromId
+                            }' data-toid='${el.ToId
+                            }' class="btn btn-danger friendBtns">decline</button>
+                                                    </div>`;
+                    });
+                $('#requests').html(requests);
+
+            };
+            hub.client.searchResults = function(result) {
+                if (typeof result === 'string') {
+                    $('#searchResult').text(result);
+                } else {
+                    $('#usersList')
+                        .html(`<div class="users-item" data-conid='${result.UserId}' data-username='${result.UserName}'>
+                                                    <div class="row">
+                                                        <div class="col-md-8 pChat">
+                                                            <b>${result.UserName}</b>:
+                                                        </div>
+                                                        <div class="col-md-4">
+                                                            <div class="users-item-options">
+                                                                <div class="sendRq" class="users-options-item" data-conid="${
+                            result.UserId}" data-username="${result.UserName}">
+                                                                    <i class="fa fa-plus"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>`);
+                }
+            };
+            hub.client.showFriends = function(list) {
+                if (typeof list !== 'object') $('#usersList').html('');
+                else {
+                    var users = "";
+                    $.each(list,
+                        function(i, el) {
+                            users += `
+                                                <div class="users-item" data-conid='${el.ConnectionId}' data-userid='${el.UserId}' 
+                                                    data-status='${el.Status}' data-username='${el.UserName}'>
+                                                    <div class="row">
+                                                        <div class="col-md-8 pChat">
+                                                            <b>${el.UserName}</b>
+                                                        </div>
+                                                        <div class="col-md-4">
+                                                            <div class="users-item-options">
+                                                                <div class="delete" class="users-options-item" data-conid='${el.UserId}' data-username='${el.UserName}'>
+                                                                    <i class="fa fa-times"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                    `;
+                        });
+                    $('#usersList').html(users);
+                }
+            };
+            hub.client.showPrivateChat = function(toid, list, name) {
+                $("#chatBody #send").data('toid', toid);
+                $("#chatBody").slideDown();
+                $("#chatBody .chat-title").text(name);
+                $("#chatBody #messages").html('');
+                $.each(list, function(i, el) {
+                    $('#messages').append("<li>" + el.FromName + ': ' + el.MessageText + "</li");
+                });
+
+            };
+            $.connection.hub.start().done(function() {
+            });
+            $('#btnSearch').click(function() {
+                hub.server.search($('#searchUser').val());
+            });
+
+        });
+
+        $(document).on('click',
+            '.pChat',
+            function() {
+                var $this = $(this),
+                    parent = $this.parents('.users-item'),
+                    userId = parent.data('userid'),
+                    username = parent.data('username');
+
+                hub.server.showPrivateChat(username, userId);
+                $(".users-item").removeClass('active');
+                parent.addClass('active').removeClass('new-message');
+            });
+
+        $(".users-item.active");
+
+        $(document).on('click',
+            '.sendRq',
+            function() {
+                var $this = $(this),
+                    conId = $this.data('conid'),
+                    userName = $this.data('username');
+                $this.parent('.users-item').remove();
+
+                hub.server.sendRequest(conId, userName);
+                hub.server.showFriends();
+
+            });
+
+        $(document).on('click',
+            '.delete',
+            function() {
+                var $this = $(this),
+                    conId = $this.data('conid');
+                $this.parent('.users-item').remove();
+
+                hub.server.deleteFriend(conId);
+                hub.server.showFriends();
+            });
+    </script>
+}
+
